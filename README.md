@@ -1,6 +1,8 @@
 # NITM_SGPA_Tracker
 
+![firststep](https://user-images.githubusercontent.com/63967381/141409482-68b3687b-a428-4b39-97bb-e35070431ed5.jpg)
 ![WhatsApp Image 2021-11-12 at 8 57 01 AM (1)](https://user-images.githubusercontent.com/63967381/141407045-ba9b34ee-2520-4119-a1e1-de80073d0be0.jpg)
+![thirdstep](https://user-images.githubusercontent.com/63967381/141409493-ce1bca00-0283-42b3-adc7-7a638b2c0c9e.jpg)
 ![WhatsApp Image 2021-11-12 at 8 57 01 AM (3)](https://user-images.githubusercontent.com/63967381/141407044-15cb2b57-4f0e-4366-ab5b-0dc3c08fae30.jpg)
 ![WhatsApp Image 2021-11-12 at 8 57 01 AM (4)](https://user-images.githubusercontent.com/63967381/141407043-d82553e5-0213-4995-9005-ede446234500.jpg)
 ![WhatsApp Image 2021-11-12 at 8 57 02 AM](https://user-images.githubusercontent.com/63967381/141407042-7f95c125-dd27-44f5-bbf0-e2c59ed036e5.jpg)
